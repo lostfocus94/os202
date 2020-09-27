@@ -1,5 +1,5 @@
-Hello Everybody
-Welcome to my **[Github Page](https://lostfocus94.github.io/os202/)**!
+# Hello Everybody,
+### Welcome to my **[GitHub Page](https://lostfocus94.github.io/os202/)**!
 <br>
 <hr>
 You can view the repository for this website **[at this address](https://github.com/lostfocus94/os202/)**.
