@@ -5,4 +5,11 @@ ZCZC W00 10 LO3 Creating and preparing new GitHub repository
 ZCZC W00 120 L02 Weekly Zoom meeting
 ZCZC W00 5 L05 Finding tutorial on how to make GitHub pages
 ZCZC W00 5 L04 Creating new GitHub pages
+ZCZC W00 60 L05 Searching for top 10 material
+ZCZC W00 5 L11 Compile the top 10 material
 ZCZC W00 5 L00 Updating mylog.txt
+ZCZC W01 5 L01 Checking Scele for new learning material
+ZCZC W01 120 L02 Weekly Zoom meeting
+ZCZC W01 15 L12 Following tutorial to set virtual box
+ZCZC W01 5 L05 There's problem while following the tutorial, finding solution to be able to choose 64bit iso
+ZCZC W01 10 L12 Continue to follow the tutorial
