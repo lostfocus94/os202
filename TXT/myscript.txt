@@ -1,0 +1,11 @@
+#!/bin/bash
+echo "Add"
+git add -A
+gitstat
+echo "Commit"
+git commit -m "OS202 lostfocus UPDATE on $now"
+gitstat
+echo "Push"
+git push
+gitstat
+
