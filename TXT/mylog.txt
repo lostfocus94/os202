@@ -26,3 +26,4 @@ ZCZC W02 60 L05 Searching for top 10 material
 ZCZC W02 10 L13 Compile the top 10 material
 ZCZC W02 10 L03 Create top 10 list on Github named w02
 ZCZC W02 10 L13 Reviewing neighbor's Github pages for my weekly top 3
+ZCZC W02 5 L00 Updating mylog.txt
