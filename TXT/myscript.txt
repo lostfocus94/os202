@@ -1,8 +1,0 @@
-#!/bin/bash
-now=$(date)
-echo "Add"
-git add -A
-echo "Commit"
-git commit -m "OS202 lostfocus UPDATE on $now"
-echo "Push"
-git push
